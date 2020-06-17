@@ -28,6 +28,9 @@ This is a repository full of resources that you might find useful whether you ar
 ### 🛠 Tools
 - [Version Stats about Android](https://developer.android.com/about/dashboards): Has the distribution percentage of Android versions installed.
 
+## ⌨️ Developers
+- [RayWenderlich](https://www.youtube.com/user/rwenderlich)
+
 ## Flutter
 ### 🔗 Articles
 - [Flutter : let’s know the ScrollController and ScrollNotification](https://medium.com/@diegoveloper/flutter-lets-know-the-scrollcontroller-and-scrollnotification-652b2685a4ac)
