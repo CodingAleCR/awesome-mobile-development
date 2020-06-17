@@ -31,6 +31,7 @@ This is a repository full of resources that you might find useful whether you ar
 ## ⌨️ Developers
 - [RayWenderlich](https://www.youtube.com/user/rwenderlich)
 - [FreeCodeCamp.org](https://www.freecodecamp.org/)
+- [Android Developers Channel](https://www.youtube.com/user/androiddevelopers)
 
 ## Flutter
 ### 🔗 Articles
