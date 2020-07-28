@@ -13,20 +13,22 @@ This is a repository full of resources that you might find useful whether you ar
 - [App Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
 
 ### 🛠 Tools
-- [Version Stats about iOS](https://david-smith.org/iosversionstats/): Has the distribution percentage of iOS versions installed.
-- [iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions): Contains a graphic guide to all the different sizes and resolutions in both points and pixels.
-- [NSDateFormatter online validator](https://nsdateformatter.com/): Helps you check if a date format is valid or not.
+- [Version Stats about iOS by David Smith](https://david-smith.org/iosversionstats/): Has the distribution percentage of iOS versions installed.
+- [iPhone Resolutions by Paintcode App](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions): Contains a graphic guide to all the different sizes and resolutions in both points and pixels.
+- [NSDateFormatter online validator by Ben Scheirman](https://nsdateformatter.com/): Helps you check if a date format is valid or not.
 
 ### ⌨️ Developers
 - [RayWenderlich](https://www.youtube.com/user/rwenderlich)
 - [Hacking With Swift](https://www.hackingwithswift.com/)
+- [NSScreencast](https://nsscreencast.com/episodes)
 
 ## Android
 ### 🔗 Articles
-- [Guide to app architecture](https://developer.android.com/jetpack/docs/guide)
+- [Guide to app architecture by Android Developers](https://developer.android.com/jetpack/docs/guide)
 
 ### 🛠 Tools
-- [Version Stats about Android](https://developer.android.com/about/dashboards): Has the distribution percentage of Android versions installed.
+- [Version Stats about Android by Android Developers](https://developer.android.com/about/dashboards): Has the distribution percentage of Android versions installed.
+- [Android Asset Studio by Roman Nurik](https://romannurik.github.io/AndroidAssetStudio/): A collection of tools to easily generate assets such as launcher icons for your Android app.
 
 ### ⌨️ Developers
 - [RayWenderlich](https://www.youtube.com/user/rwenderlich)
