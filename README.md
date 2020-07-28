@@ -17,7 +17,7 @@ This is a repository full of resources that you might find useful whether you ar
 - [iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions): Contains a graphic guide to all the different sizes and resolutions in both points and pixels.
 - [NSDateFormatter online validator](https://nsdateformatter.com/): Helps you check if a date format is valid or not.
 
-## ⌨️ Developers
+### ⌨️ Developers
 - [RayWenderlich](https://www.youtube.com/user/rwenderlich)
 - [Hacking With Swift](https://www.hackingwithswift.com/)
 
@@ -28,7 +28,7 @@ This is a repository full of resources that you might find useful whether you ar
 ### 🛠 Tools
 - [Version Stats about Android](https://developer.android.com/about/dashboards): Has the distribution percentage of Android versions installed.
 
-## ⌨️ Developers
+### ⌨️ Developers
 - [RayWenderlich](https://www.youtube.com/user/rwenderlich)
 - [FreeCodeCamp.org](https://www.freecodecamp.org/)
 - [Android Developers Channel](https://www.youtube.com/user/androiddevelopers)
