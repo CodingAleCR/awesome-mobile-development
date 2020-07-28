@@ -31,6 +31,7 @@ This is a repository full of resources that you might find useful whether you ar
 - [Android Asset Studio by Roman Nurik](https://romannurik.github.io/AndroidAssetStudio/): A collection of tools to easily generate assets such as launcher icons for your Android app.
 
 ### ⌨️ Developers
+- [Aidan Follestad](https://github.com/afollestad)
 - [RayWenderlich](https://www.youtube.com/user/rwenderlich)
 - [FreeCodeCamp.org](https://www.freecodecamp.org/)
 - [Android Developers Channel](https://www.youtube.com/user/androiddevelopers)
