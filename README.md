@@ -55,9 +55,12 @@ This is a repository full of resources that you might find useful whether you ar
 ## React Native
 ### 🔗 Articles
 - [Structure React Native apps for scale](https://medium.com/the-andela-way/how-to-structure-a-react-native-app-for-scale-a29194cd33fc)
+- [ReactNative Best Practices & Libs 2020 by Andrey Nikishaev](https://medium.com/@a.nikishaev/reactnative-best-practices-libs-2020-68f193a15540)
+- [Expo Hooks](https://heartbeat.fritz.ai/getting-started-with-react-native-and-expo-using-hooks-in-2020-fb466c25b04c)
 
 ### 🛠 Tools
 - [Upgrade Helper](https://react-native-community.github.io/upgrade-helper/): This tool let's you see what has changed between one version of RN and another one. It's really useful for when you need to upgrade an app.
 
 ### ⌨️ Developers
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- [Expo Guides](https://expo.io/learn)
